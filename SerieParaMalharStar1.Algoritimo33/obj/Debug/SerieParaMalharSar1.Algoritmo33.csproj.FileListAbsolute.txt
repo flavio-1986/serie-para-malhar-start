@@ -1,0 +1,8 @@
+D:\cursocsenai\seriemalharcabeca\SerieParaMalharStar1\SerieParaMalharSar1.Algoritmo33\bin\Debug\SerieParaMalharSar1.Algoritmo33.exe.config
+D:\cursocsenai\seriemalharcabeca\SerieParaMalharStar1\SerieParaMalharSar1.Algoritmo33\bin\Debug\SerieParaMalharSar1.Algoritmo33.exe
+D:\cursocsenai\seriemalharcabeca\SerieParaMalharStar1\SerieParaMalharSar1.Algoritmo33\bin\Debug\SerieParaMalharSar1.Algoritmo33.pdb
+D:\cursocsenai\seriemalharcabeca\SerieParaMalharStar1\SerieParaMalharSar1.Algoritmo33\obj\Debug\SerieParaMalharSar1.Algoritmo33.csproj.AssemblyReference.cache
+D:\cursocsenai\seriemalharcabeca\SerieParaMalharStar1\SerieParaMalharSar1.Algoritmo33\obj\Debug\SerieParaMalharSar1.Algoritmo33.csproj.SuggestedBindingRedirects.cache
+D:\cursocsenai\seriemalharcabeca\SerieParaMalharStar1\SerieParaMalharSar1.Algoritmo33\obj\Debug\SerieParaMalharSar1.Algoritmo33.csproj.CoreCompileInputs.cache
+D:\cursocsenai\seriemalharcabeca\SerieParaMalharStar1\SerieParaMalharSar1.Algoritmo33\obj\Debug\SerieParaMalharSar1.Algoritmo33.exe
+D:\cursocsenai\seriemalharcabeca\SerieParaMalharStar1\SerieParaMalharSar1.Algoritmo33\obj\Debug\SerieParaMalharSar1.Algoritmo33.pdb

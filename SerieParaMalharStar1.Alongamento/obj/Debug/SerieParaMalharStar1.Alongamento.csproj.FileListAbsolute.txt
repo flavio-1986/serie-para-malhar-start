@@ -1,0 +1,8 @@
+D:\cursocsenai\seriemalharcabeca\SerieParaMalharStar1\SerieParaMalharStar1.Alongamento\bin\Debug\SerieParaMalharStar1.Alongamento.exe.config
+D:\cursocsenai\seriemalharcabeca\SerieParaMalharStar1\SerieParaMalharStar1.Alongamento\bin\Debug\SerieParaMalharStar1.Alongamento.exe
+D:\cursocsenai\seriemalharcabeca\SerieParaMalharStar1\SerieParaMalharStar1.Alongamento\bin\Debug\SerieParaMalharStar1.Alongamento.pdb
+D:\cursocsenai\seriemalharcabeca\SerieParaMalharStar1\SerieParaMalharStar1.Alongamento\obj\Debug\SerieParaMalharStar1.Alongamento.csproj.AssemblyReference.cache
+D:\cursocsenai\seriemalharcabeca\SerieParaMalharStar1\SerieParaMalharStar1.Alongamento\obj\Debug\SerieParaMalharStar1.Alongamento.csproj.SuggestedBindingRedirects.cache
+D:\cursocsenai\seriemalharcabeca\SerieParaMalharStar1\SerieParaMalharStar1.Alongamento\obj\Debug\SerieParaMalharStar1.Alongamento.csproj.CoreCompileInputs.cache
+D:\cursocsenai\seriemalharcabeca\SerieParaMalharStar1\SerieParaMalharStar1.Alongamento\obj\Debug\SerieParaMalharStar1.Alongamento.exe
+D:\cursocsenai\seriemalharcabeca\SerieParaMalharStar1\SerieParaMalharStar1.Alongamento\obj\Debug\SerieParaMalharStar1.Alongamento.pdb

@@ -1,0 +1,8 @@
+D:\cursocsenai\seriemalharcabeca\SerieParaMalharStar1\SerieParaMalharStar1.Algoritimo28\bin\Debug\SerieParaMalharStar1.Algoritimo28.exe.config
+D:\cursocsenai\seriemalharcabeca\SerieParaMalharStar1\SerieParaMalharStar1.Algoritimo28\bin\Debug\SerieParaMalharStar1.Algoritimo28.exe
+D:\cursocsenai\seriemalharcabeca\SerieParaMalharStar1\SerieParaMalharStar1.Algoritimo28\bin\Debug\SerieParaMalharStar1.Algoritimo28.pdb
+D:\cursocsenai\seriemalharcabeca\SerieParaMalharStar1\SerieParaMalharStar1.Algoritimo28\obj\Debug\SerieParaMalharStar1.Algoritimo28.csproj.AssemblyReference.cache
+D:\cursocsenai\seriemalharcabeca\SerieParaMalharStar1\SerieParaMalharStar1.Algoritimo28\obj\Debug\SerieParaMalharStar1.Algoritimo28.csproj.SuggestedBindingRedirects.cache
+D:\cursocsenai\seriemalharcabeca\SerieParaMalharStar1\SerieParaMalharStar1.Algoritimo28\obj\Debug\SerieParaMalharStar1.Algoritimo28.csproj.CoreCompileInputs.cache
+D:\cursocsenai\seriemalharcabeca\SerieParaMalharStar1\SerieParaMalharStar1.Algoritimo28\obj\Debug\SerieParaMalharStar1.Algoritimo28.exe
+D:\cursocsenai\seriemalharcabeca\SerieParaMalharStar1\SerieParaMalharStar1.Algoritimo28\obj\Debug\SerieParaMalharStar1.Algoritimo28.pdb
