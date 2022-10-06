@@ -1,0 +1,8 @@
+D:\cursocsenai\treino algoritimo\SerieParaMalharStar1\VoeAirlines\VoeAirlines\bin\Debug\VoeAirlines.exe.config
+D:\cursocsenai\treino algoritimo\SerieParaMalharStar1\VoeAirlines\VoeAirlines\bin\Debug\VoeAirlines.exe
+D:\cursocsenai\treino algoritimo\SerieParaMalharStar1\VoeAirlines\VoeAirlines\bin\Debug\VoeAirlines.pdb
+D:\cursocsenai\treino algoritimo\SerieParaMalharStar1\VoeAirlines\VoeAirlines\obj\Debug\VoeAirlines.csproj.AssemblyReference.cache
+D:\cursocsenai\treino algoritimo\SerieParaMalharStar1\VoeAirlines\VoeAirlines\obj\Debug\VoeAirlines.csproj.SuggestedBindingRedirects.cache
+D:\cursocsenai\treino algoritimo\SerieParaMalharStar1\VoeAirlines\VoeAirlines\obj\Debug\VoeAirlines.csproj.CoreCompileInputs.cache
+D:\cursocsenai\treino algoritimo\SerieParaMalharStar1\VoeAirlines\VoeAirlines\obj\Debug\VoeAirlines.exe
+D:\cursocsenai\treino algoritimo\SerieParaMalharStar1\VoeAirlines\VoeAirlines\obj\Debug\VoeAirlines.pdb

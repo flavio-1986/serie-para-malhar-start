@@ -6,3 +6,11 @@ D:\cursocsenai\seriemalharcabeca\SerieParaMalharStar1\SerieParaMalharStar1.Algor
 D:\cursocsenai\seriemalharcabeca\SerieParaMalharStar1\SerieParaMalharStar1.Algoritimo29\obj\Debug\SerieParaMalharStar1.Algoritimo29.csproj.CoreCompileInputs.cache
 D:\cursocsenai\seriemalharcabeca\SerieParaMalharStar1\SerieParaMalharStar1.Algoritimo29\obj\Debug\SerieParaMalharStar1.Algoritimo29.exe
 D:\cursocsenai\seriemalharcabeca\SerieParaMalharStar1\SerieParaMalharStar1.Algoritimo29\obj\Debug\SerieParaMalharStar1.Algoritimo29.pdb
+D:\cursocsenai\treino algoritimo\SerieParaMalharStar1\SerieParaMalharStar1.Algoritimo29\bin\Debug\SerieParaMalharStar1.Algoritimo29.exe.config
+D:\cursocsenai\treino algoritimo\SerieParaMalharStar1\SerieParaMalharStar1.Algoritimo29\bin\Debug\SerieParaMalharStar1.Algoritimo29.exe
+D:\cursocsenai\treino algoritimo\SerieParaMalharStar1\SerieParaMalharStar1.Algoritimo29\bin\Debug\SerieParaMalharStar1.Algoritimo29.pdb
+D:\cursocsenai\treino algoritimo\SerieParaMalharStar1\SerieParaMalharStar1.Algoritimo29\obj\Debug\SerieParaMalharStar1.Algoritimo29.csproj.AssemblyReference.cache
+D:\cursocsenai\treino algoritimo\SerieParaMalharStar1\SerieParaMalharStar1.Algoritimo29\obj\Debug\SerieParaMalharStar1.Algoritimo29.csproj.SuggestedBindingRedirects.cache
+D:\cursocsenai\treino algoritimo\SerieParaMalharStar1\SerieParaMalharStar1.Algoritimo29\obj\Debug\SerieParaMalharStar1.Algoritimo29.csproj.CoreCompileInputs.cache
+D:\cursocsenai\treino algoritimo\SerieParaMalharStar1\SerieParaMalharStar1.Algoritimo29\obj\Debug\SerieParaMalharStar1.Algoritimo29.exe
+D:\cursocsenai\treino algoritimo\SerieParaMalharStar1\SerieParaMalharStar1.Algoritimo29\obj\Debug\SerieParaMalharStar1.Algoritimo29.pdb

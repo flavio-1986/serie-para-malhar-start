@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{363CF9F3-CC53-4631-8526-D7C9D8CB7741}</ProjectGuid>
+    <ProjectGuid>{E8F1F4A9-715A-4103-863F-94827AA4A5E8}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>SerieParaMalharSar1.Algoritmo33</RootNamespace>
-    <AssemblyName>SerieParaMalharSar1.Algoritmo33</AssemblyName>
+    <RootNamespace>EstudoPiloto</RootNamespace>
+    <AssemblyName>EstudoPiloto</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Piloto.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

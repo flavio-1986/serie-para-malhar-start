@@ -15,7 +15,7 @@ namespace SerieParaMalharStar1.Algoritimo32
             Console.WriteLine("### Tipo do Valor ###");
             Console.WriteLine("Digite algo para saber o tipo: ");
             x = Console.ReadLine();
-            Console.WriteLine($"O é do tipo:  {x.GetType()}");
+            Console.WriteLine($"O numero é do tipo:  {x.GetType()}");
             
             Console.ReadKey();
         }
